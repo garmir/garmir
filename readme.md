@@ -1,4 +1,12 @@
-<div style="display:flex; justify-content: space-between;">
-  <div style="text-align:right">occasionally, i get paid to break things</div>
-  <div style="text-align:left"><img src="https://komarev.com/ghpvc/?username=garmir&style=flat-square" alt="Profile views"></div>
+<div style="display: flex;">
+  <div>
+    <a>occasionally, i get paid to break things</a>
+  </div>
+  <div style="margin-left: auto;">
+    <a href="https://komarev.com/ghpvc/?username=garmir&style=flat-square">
+      <img src="https://komarev.com/ghpvc/?username=garmir&style=flat-square">
+    </a>
+  </div>
 </div>
+
+<link rel="stylesheet" type="text/css" href="[style.css](https://github.com/garmir/garmir/blob/main/style.css)">
