@@ -1,3 +1,1 @@
-![](https://komarev.com/ghpvc/?username=garmir)
-
-occasionally, i get paid to break things
+occasionally, i get paid to break things                                                                                             ![](https://komarev.com/ghpvc/?username=garmir)
