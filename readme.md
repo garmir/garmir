@@ -21,4 +21,4 @@
 <br>
 <br>
 <br>
-![Snake animation](https://github.com/garmir/garmir/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/garmir/garmir/blob/output/github-contribution-grid-snake.svg)
